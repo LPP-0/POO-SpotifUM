@@ -1,6 +1,6 @@
 # POO - SpotifUM
 
-Console-based music streaming application developed in Java for the **Object-Oriented Programming** course during the second year of my Bachelor's degree in Software Engineering (2025/2026).
+Console-based music streaming application developed in Java for the **Object-Oriented Programming** course during the second year of my Bachelor's degree in Software Engineering (2024/2025).
 
 The project simulates a Spotify-like platform, with users, music, albums, playlists and playback management.
 
